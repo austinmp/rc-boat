@@ -1,8 +1,8 @@
 <h1 align="center">
   <img src="/pics/IMG_6369.jpg" width=30% height=30%><br/>
-  🛥️🕹 ️RC Fan Boat
+ 🕹 ️RC Fan Boat
 </h1>
-<p align="center" justify="center">  A remote controlled fan boat created by myself and <a href=https://github.com/Derpthemeus >Matthew Oslan </a>for Fall 2020 CS335 final project. </p>
+<p align="center" justify="center">  A remote controlled fan boat created by myself and <a href=https://github.com/Derpthemeus >Matthew Oslan </a>for our CS335 final project (Fall 2020). </p>
 
 ## 🛠️ Materials
 - 2 x BBC micro:bits
