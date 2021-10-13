@@ -22,4 +22,6 @@
 
 ## 📷 Pictures
 
-![Top view with controller] (pics/IMG_6370.jpg)
+![Top view with controller](pics/IMG_6370.jpg)
+
+![Back](IMG_6371.jpg)
