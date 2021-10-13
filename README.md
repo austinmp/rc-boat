@@ -24,4 +24,10 @@
 
 ![Top view with controller](pics/IMG_6370.jpg)
 
-![Back](IMG_6371.jpg)
+![Side](pics/IMG_6369.jpg)
+
+![Back](pics/IMG_6371.jpg)
+
+![Inside](pics/IMG_6365.jpg)
+
+![Power Bank](pics/IMG_6373.jpg)
