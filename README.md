@@ -20,8 +20,6 @@
 - 2 x 9V Batteries (Powering fan motors)
 - 4 x AA Batteries (Powering servo motor)
 
-## Demo Video 
-
 ## 📷 Pictures
 
 ![Top view with controller](pics/IMG_6370.jpg)
@@ -33,3 +31,6 @@
 ![Inside](pics/IMG_6365.jpg)
 
 ![Power Bank](pics/IMG_6373.jpg)
+
+## Demo Video 
+ (coming soon)
