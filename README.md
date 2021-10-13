@@ -7,7 +7,7 @@
 ## ℹ️ About
 - The boat is controlled using an analog joystick connected to a Microbit to send data to the boat.
 - The boat has a Microbit on board to receive the controller's radio signals.
-- 3 fans attached to DC motors power the boat
+- 3 fans attached to DC motors power the boat.
 - A servo motor controls the rudder, diverting the air output from the center fan, allowing the boat to turn.
 
 ## 🛠️ Materials
@@ -21,3 +21,5 @@
 - 4 x AA Batteries (Powering servo motor)
 
 ## 📷 Pictures
+
+![Top view with controller] (pics/IMG_6370.jpg)
